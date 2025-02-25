@@ -2,3 +2,7 @@
 #  credentials protection
 git add .gitignore
 git commit --amend --no-edit
+
+#esse bendito n entra!!!!
+credentials.json
+token.json
