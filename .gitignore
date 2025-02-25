@@ -1,0 +1,4 @@
+# File Protection
+#  credentials protection
+git add .gitignore
+git commit --amend --no-edit
